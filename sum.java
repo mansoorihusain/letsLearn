@@ -2,6 +2,6 @@ class Sample{
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
-        System.out.println("editon of java"+a+b);  
+        System.out.println("editon of java"+(a+b));  
     } 
 }
